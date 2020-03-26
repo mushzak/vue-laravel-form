@@ -1,0 +1,7 @@
+name | phone | message
+
+test | 1231231231 | sdasdasd
+yo yo yo | 1231231231 | testesetsetset
+123 | 12312312312 | qwqweqwedqwe
+123 | 12312312312 | qwqweqwedqwe
+test | 1231231231 | sdfsfsdfsdf
